@@ -1,0 +1,1 @@
+document.getElementById("Information ").innerHTML="paragrapgh changed.";
